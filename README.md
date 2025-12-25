@@ -1,4 +1,4 @@
-# Supplemental Material "Uncovering Failures in Cyber-Physical System State Transitions:A Fuzzing-Based Approach Applied to sUAS"
+# Supplemental Material "Uncovering Failures in Cyber-Physical System State Transitions: A Fuzzing-Based Approach Applied to sUAS"
 
 Theodore Chambers, Arturo Miguel Russell Bernal, Michael Vierhauser, Jane Cleland-Huang
 
