@@ -1,4 +1,4 @@
-# Supplemental Material "Uncovering Hidden Failures in Cyber-Physical Systems: A Fuzzing-Based Approach Applied to sUAS"
+# Supplemental Material "Uncovering Failures in Cyber-Physical System State Transitions:A Fuzzing-Based Approach Applied to sUAS"
 
 Theodore Chambers, Arturo Miguel Russell Bernal, Michael Vierhauser, Jane Cleland-Huang
 
@@ -10,7 +10,7 @@ _accepted at the 48th International Conference on Software Engineering (ICSE) 20
 __Citation:__
 ```
 @inproceedings{statefuzz_icse26,
-title = {Uncovering Hidden Failures in Cyber-Physical Systems: A Fuzzing-Based Approach Applied to sUAS},
+title = {Uncovering Failures in Cyber-Physical System State Transitions: A Fuzzing-Based Approach Applied to sUAS},
  author = {Chambers, Theodore and Bernal, Arturo Miguel Russell and Vierhauser, Michael and Cleland-Huang, Jane},
  booktitle = {Proceedings of the 48th International Conference on Software Engineering},
  doi = {N/A},
