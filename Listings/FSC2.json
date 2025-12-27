@@ -1,6 +1,6 @@
 {
   "FROM_PX4_modes": ["OFFBOARD"],
-  "FROM_APP_states": ["FLYING_TO_WAYPOINT", "HOVERING"],
+  "FROM_APP_states": ["TAKEOFF", "FLYING_TO_WAYPOINT", "HOVERING", "LAND"],
   "ACTIONS": ["AUTO.LOITER", "AUTO.LAND", "AUTO.RTL"],
   "ENVIRONMENT": {
     "transition_delay": {

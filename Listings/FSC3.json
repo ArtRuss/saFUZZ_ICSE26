@@ -2,7 +2,7 @@
   "FROM_PX4_modes": ["OFFBOARD"],
   "FROM_APP_states": ["FLYING_TO_WAYPOINT"],
   "ACTIONS": ["Approach geofence boundary", "Cross geofence line"],
-  "RC_INPUT_EVENTS": ["ALTCTL", "POSCTL", "STABILIZED"],
+  "RC_INPUT_EVENTS": ["ALTCTL", "POSCTL", "STABILIZED", "OFFBOARD"],
   "ENVIRONMENT": {
     "transition_delay": ["short", "medium", "long"],
     "throttle": ["mid"],
